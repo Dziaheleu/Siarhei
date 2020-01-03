@@ -1,0 +1,15 @@
+<html>
+ <head>
+<link rel="stylesheet" href="C:\Users\Dima-PC\Desktop\Сайт\1style.css">
+  <title>Автобиография</title>
+ </head>
+ <body>
+   <h1>Моя Автобиография:)</h1>
+   <p>Я, Иванов Иван Иванович, родился в г. Минске 25 апреля 1985 года в семье представителей интеллигенции.
+В вооруженных силах не служил по причине медицинских противопоказаний, к судебной ответственности не привлекался. Холост. Являюсь гражданином РБ.</p>
+<a href="C:\Users\Dima-PC\Desktop\Сайт\2 Страница.html">О моей Маме</a>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uy-La5Cxnjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+</body>
+</html>

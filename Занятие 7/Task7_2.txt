@@ -1,0 +1,31 @@
+Мой мир 	.//a[@id='ph_my']
+
+Все проекты 	.//a[@class="x-ph__menu__button"]
+
+Картинки 	.//a[@href="http://r.mail.ru/clb657254/go.mail.ru/search_images?fr=mailru&fm=1"]
+
+Лупа		.//div[@class="search__background search__background_orange_bold i-no-right-radius"]
+
+Найти		.//input[@id="search:submit"]
+
+Календарь	.//a[@class="mailbox__icon mailbox__icon_calendar i-pull-right i-link-no-deco"]
+
+Леди		.//a[@href="//lady.mail.ru/"]
+
+Три точки	.//div[@id="tabs:dropdown-container"]
+
+Имя ящика	.//input[@id="mailbox:login"]
+
+Запомнить	.//label[@class="mailbox__control mailbox__control_saveauth mailbox__control_left i-font-md i-color-black"]
+
+Облако		.//a[@href="https://cloud.mail.ru/?utm_source=mail&utm_medium=crosspromo&utm_campaign=appslist&utm_content=1"]
+
+Спорт		.//a[@name="clb571759"]
+
+Реклама		.//div[@class="news-item o-media news-item_tgb news-item_long_title tgb"]
+
+Агент		.//a[@href="http://agent.mail.ru/"]
+
+Валюта		(.//a[@class="rate i-link-no-deco o-media"])[1]
+
+О компании	.//a[@href="//corp.mail.ru/"]
